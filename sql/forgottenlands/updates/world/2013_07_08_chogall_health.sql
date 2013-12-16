@@ -1,0 +1,1 @@
+UPDATE `creature_template` SET `Health_mod`=390 WHERE (`entry`=43324);

@@ -1,0 +1,1 @@
+ALTER TABLE creature MODIFY equipment_id MEDIUMINT;

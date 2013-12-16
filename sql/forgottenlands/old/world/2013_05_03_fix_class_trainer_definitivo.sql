@@ -1,0 +1,10 @@
+UPDATE `creature_template` SET `gossip_menu_id`=0 WHERE  `subname`='paladin trainer';
+UPDATE `creature_template` SET `gossip_menu_id`=0 WHERE  `subname`='warrior trainer';
+UPDATE `creature_template` SET `gossip_menu_id`=0 WHERE  `subname`='hunter trainer';
+UPDATE `creature_template` SET `gossip_menu_id`=0 WHERE  `subname`='mage trainer';
+UPDATE `creature_template` SET `gossip_menu_id`=0 WHERE  `subname`='rogue trainer';
+UPDATE `creature_template` SET `gossip_menu_id`=0 WHERE  `subname`='priest trainer';
+UPDATE `creature_template` SET `gossip_menu_id`=0 WHERE  `subname`='deathknight trainer';
+UPDATE `creature_template` SET `gossip_menu_id`=0 WHERE  `subname`='shaman trainer';
+UPDATE `creature_template` SET `gossip_menu_id`=0 WHERE  `subname`='warlock trainer';
+UPDATE `creature_template` SET `gossip_menu_id`=0 WHERE  `subname`='druid trainer';

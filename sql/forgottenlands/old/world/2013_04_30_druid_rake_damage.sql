@@ -1,0 +1,1 @@
+UPDATE `spell_bonus_data` SET `ap_bonus`=0.147, `ap_dot_bonus`=0.147, `comments`='Druid - Rake (56+ AP*0,147)' WHERE (`entry`=1822);

@@ -1,0 +1,10 @@
+DELETE FROM event_scripts WHERE id = 3201 AND delay = 2 AND command = 9 AND datalong = 16736 AND datalong2 = 600 AND dataint = 0 AND x = 0 AND y = 0 AND z = 0 AND o = 0;
+DELETE FROM event_scripts WHERE id = 3201 AND delay = 2 AND command = 9 AND datalong = 16741 AND datalong2 = 600 AND dataint = 0 AND x = 0 AND y = 0 AND z = 0 AND o = 0;
+DELETE FROM event_scripts WHERE id = 3202 AND delay = 2 AND command = 9 AND datalong = 16742 AND datalong2 = 600 AND dataint = 0 AND x = 0 AND y = 0 AND z = 0 AND o = 0;
+DELETE FROM event_scripts WHERE id = 3202 AND delay = 2 AND command = 9 AND datalong = 16737 AND datalong2 = 600 AND dataint = 0 AND x = 0 AND y = 0 AND z = 0 AND o = 0;
+DELETE FROM event_scripts WHERE id = 3203 AND delay = 2 AND command = 9 AND datalong = 16743 AND datalong2 = 600 AND dataint = 0 AND x = 0 AND y = 0 AND z = 0 AND o = 0;
+DELETE FROM event_scripts WHERE id = 3203 AND delay = 2 AND command = 9 AND datalong = 16738 AND datalong2 = 600 AND dataint = 0 AND x = 0 AND y = 0 AND z = 0 AND o = 0;
+DELETE FROM event_scripts WHERE id = 3204 AND delay = 2 AND command = 9 AND datalong = 16735 AND datalong2 = 600 AND dataint = 0 AND x = 0 AND y = 0 AND z = 0 AND o = 0;
+DELETE FROM event_scripts WHERE id = 3204 AND delay = 2 AND command = 9 AND datalong = 16740 AND datalong2 = 600 AND dataint = 0 AND x = 0 AND y = 0 AND z = 0 AND o = 0;
+DELETE FROM event_scripts WHERE id = 3980 AND delay = 0 AND command = 9 AND datalong = 27142 AND datalong2 = 180 AND dataint = 0 AND x = 0 AND y = 0 AND z = 0 AND o = 0;
+DELETE FROM event_scripts WHERE id = 15385 AND delay = 1 AND command = 9 AND datalong = 21607 AND datalong2 = 180 AND dataint = 0 AND x = 0 AND y = 0 AND z = 0 AND o = 0;

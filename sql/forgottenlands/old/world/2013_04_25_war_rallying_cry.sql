@@ -1,0 +1,2 @@
+DELETE FROM `spell_linked_spell` WHERE (`spell_trigger`=97462) AND (`spell_effect`=97463);
+INSERT INTO `spell_linked_spell` (`spell_trigger`, `spell_effect`, `comment`) VALUES (97462, 97463, 'Rallying Cry');

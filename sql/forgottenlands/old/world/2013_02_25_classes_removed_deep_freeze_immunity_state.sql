@@ -1,0 +1,1 @@
+DELETE FROM playercreateinfo_spell WHERE spell=71761 AND race in(3,4,5,6,7,8,9,10,11);

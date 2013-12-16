@@ -1,0 +1,4 @@
+DELETE FROM smart_scripts WHERE entryorguid IN (SELECT `entry` from `creature_template` where `rank`=0 AND `family`=1) AND action_type = 39;
+INSERT IGNORE INTO smart_scripts (SELECT `entry`,0,0,0,4,0,100,0,0,0,0,0,39,25,1,0,0,0,0,19,`entry`,15,0,0,0,0,0,'call for help wolf' from `creature_template` where `rank`=0 AND family=1);
+DELETE FROM smart_scripts WHERE entryorguid IN (SELECT `entry` from `creature_template` where `rank`=0 AND `family`=12) AND action_type = 25;
+INSERT IGNORE INTO smart_scripts (SELECT `entry`,0,2,2,2,0,100,1,1,30,0,0,25,0,2,0,0,0,0,11,`entry`,80,0,0,0,0,0,'flee tallstrider' from `creature_template` where `rank`=0 AND family=12);

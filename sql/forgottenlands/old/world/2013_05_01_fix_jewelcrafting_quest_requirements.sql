@@ -1,0 +1,10 @@
+UPDATE `quest_template` SET `RequiredRaces`=0, `RequiredSkillPoints`=450 WHERE  `Id`=25105;
+UPDATE `quest_template` SET `RequiredRaces`=0, `RequiredSkillPoints`=450 WHERE  `Id`=25154;
+UPDATE `quest_template` SET `RequiredRaces`=0, `RequiredSkillPoints`=450 WHERE  `Id`=25155;
+UPDATE `quest_template` SET `RequiredRaces`=0, `RequiredSkillPoints`=450 WHERE  `Id`=25156;
+UPDATE `quest_template` SET `RequiredRaces`=0, `RequiredSkillPoints`=450 WHERE  `Id`=25157;
+UPDATE `quest_template` SET `RequiredRaces`=0, `RequiredSkillPoints`=450 WHERE  `Id`=25158;
+UPDATE `quest_template` SET `RequiredRaces`=0, `RequiredSkillPoints`=450 WHERE  `Id`=25159;
+UPDATE `quest_template` SET `RequiredRaces`=0, `RequiredSkillPoints`=450 WHERE  `Id`=25160;
+UPDATE `quest_template` SET `RequiredRaces`=0, `RequiredSkillPoints`=450 WHERE  `Id`=25161;
+UPDATE `quest_template` SET `RequiredRaces`=0, `RequiredSkillPoints`=450 WHERE  `Id`=25162;

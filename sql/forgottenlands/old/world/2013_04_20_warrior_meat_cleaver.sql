@@ -1,0 +1,3 @@
+DELETE FROM spell_proc_event WHERE entry IN (12329,12950);
+INSERT INTO spell_proc_event() VALUES (12329,0,4,4194304,4,0,16,3,0,100,0);
+INSERT INTO spell_proc_event() VALUES (12950,0,4,4194304,4,0,16,3,0,100,0);

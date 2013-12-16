@@ -1,0 +1,1 @@
+UPDATE `quest_template` SET `RewardChoiceItemId1`=31492, `RewardChoiceItemId2`=31491, `RewardChoiceItemId3`=31490, `RewardChoiceItemId4`=31494, `RewardChoiceItemId5`=31493, `RewardChoiceItemCount1`=1, `RewardChoiceItemCount2`=1, `RewardChoiceItemCount3`=1, `RewardChoiceItemCount4`=1, `RewardChoiceItemCount5`=1 WHERE  `Id`=10870;

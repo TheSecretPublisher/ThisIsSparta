@@ -1,0 +1,16 @@
+DELETE FROM npc_vendor WHERE entry IN (50248);
+INSERT INTO npc_vendor (entry, slot, item, maxcount, incrtime, ExtendedCost,type) VALUES (50248,0,39489,0,0,0,1);
+INSERT INTO npc_vendor (entry, slot, item, maxcount, incrtime, ExtendedCost,type) VALUES (50248,1,67348,0,0,0,1);
+INSERT INTO npc_vendor (entry, slot, item, maxcount, incrtime, ExtendedCost,type) VALUES (50248,2,10648,0,0,0,1);
+INSERT INTO npc_vendor (entry, slot, item, maxcount, incrtime, ExtendedCost,type) VALUES (50248,3,3371,0,0,0,1);
+INSERT INTO npc_vendor (entry, slot, item, maxcount, incrtime, ExtendedCost,type) VALUES (50248,4,62323,0,0,0,1);
+INSERT INTO npc_vendor (entry, slot, item, maxcount, incrtime, ExtendedCost,type) VALUES (50248,5,63388,0,0,0,1);
+INSERT INTO npc_vendor (entry, slot, item, maxcount, incrtime, ExtendedCost,type) VALUES (50248,6,39501,0,0,0,1);
+INSERT INTO npc_vendor (entry, slot, item, maxcount, incrtime, ExtendedCost,type) VALUES (50248,7,39354,0,0,0,1);
+INSERT INTO npc_vendor (entry, slot, item, maxcount, incrtime, ExtendedCost,type) VALUES (50248,8,67319,0,0,0,1);
+INSERT INTO npc_vendor (entry, slot, item, maxcount, incrtime, ExtendedCost,type) VALUES (50248,9,39502,0,0,0,1);
+INSERT INTO npc_vendor (entry, slot, item, maxcount, incrtime, ExtendedCost,type) VALUES (50248,10,68047,0,0,0,1);
+INSERT INTO npc_vendor (entry, slot, item, maxcount, incrtime, ExtendedCost,type) VALUES (50248,11,67335,0,0,0,1);
+INSERT INTO npc_vendor (entry, slot, item, maxcount, incrtime, ExtendedCost,type) VALUES (50248,12,68810,0,0,0,1);
+INSERT INTO npc_vendor (entry, slot, item, maxcount, incrtime, ExtendedCost,type) VALUES (50248,13,64670,0,0,0,1);
+INSERT INTO npc_vendor (entry, slot, item, maxcount, incrtime, ExtendedCost,type) VALUES (50248,14,39505,0,0,0,1);

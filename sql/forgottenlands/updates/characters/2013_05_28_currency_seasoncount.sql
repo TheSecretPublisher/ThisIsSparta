@@ -1,0 +1,1 @@
+ALTER TABLE `character_currency` ADD COLUMN `season_count` INT(11) UNSIGNED NOT NULL AFTER `week_count`;

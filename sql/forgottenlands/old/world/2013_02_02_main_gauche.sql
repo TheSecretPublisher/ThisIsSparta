@@ -1,0 +1,3 @@
+-- (76806) Main Gauche
+DELETE FROM `spell_proc_event` WHERE `entry` IN (76806);
+INSERT INTO `spell_proc_event` VALUES (76806, 0, 0, 0x00000000, 0x00000000, 0x00000000, 0x00000004, 0x00000000, 0, 100, 0);

@@ -1,0 +1,1 @@
+UPDATE pet_levelstats SET mana = 0 where creature_entry = 26125;

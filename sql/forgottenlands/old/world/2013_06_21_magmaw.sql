@@ -1,0 +1,17 @@
+DELETE FROM `vehicle_template_accessory` WHERE `entry` = 41570;
+INSERT INTO `vehicle_template_accessory` (`entry`, `accessory_entry`, `description`) VALUES (41570, 42347, 'Magmaw Head');
+DELETE FROM `npc_spellclick_spells` WHERE `npc_entry` = 41570;
+INSERT INTO `npc_spellclick_spells` (`npc_entry`, `spell_id`, `cast_flags`) VALUES (41570, 88066, 1);
+UPDATE `creature_template` SET `difficulty_entry_1`=51251, `difficulty_entry_2`=51252, `difficulty_entry_3`=51253 WHERE  `entry`=42347 LIMIT 1;
+UPDATE `creature_template` SET `minlevel`=88, `maxlevel`=88, `exp`=3, `faction_A`=14, `faction_H`=14, `mindmg`=1225.5, `maxdmg`=1544.7, `dmgschool`=2, `attackpower`=1651, `dmg_multiplier`=60, `baseattacktime`=2700, `rangeattacktime`=200, `unit_flags`=33554496, `unit_flags2`=0, `minrangedmg`=1160.9, `maxrangedmg`=1328.1, `rangedattackpower`=225 WHERE  `entry`IN (51251,51252,51253);
+UPDATE `creature_template` SET `exp`=3 WHERE  `entry`=42347 LIMIT 1;
+UPDATE `creature_template` SET `modelid2`=0, `minlevel`=85, `maxlevel`=85, `exp`=3, `faction_A`=16, `faction_H`=16, `ScriptName`='mob_pillar_of_flame_trigger' WHERE  `entry`=41843 LIMIT 1;
+UPDATE `creature_template` SET `flags_extra`=2, `ScriptName`='mob_magmaws_head' WHERE  `entry`=42347 LIMIT 1;
+UPDATE `creature_template` SET `exp`=3, `faction_A`=16, `faction_H`=16, `ScriptName`='npc_lava_parasite' WHERE  `entry` IN (42321, 41806);
+UPDATE `creature_template` SET `minlevel`=85, `Health_mod`=1.8 WHERE  `entry`=42321 LIMIT 1;
+UPDATE `creature_template` SET `Health_mod`=1.8 WHERE  `entry`=41806 LIMIT 1;
+UPDATE `creature_template` SET `difficulty_entry_1`=51456, `difficulty_entry_2`=51457, `difficulty_entry_3`=51458 WHERE  `entry`=41806 LIMIT 1;
+UPDATE `creature_template` SET `difficulty_entry_1`=51456 WHERE  `entry`=42321 LIMIT 1;
+UPDATE `creature_template` SET `difficulty_entry_2`=51457 WHERE  `entry`=42321 LIMIT 1;
+UPDATE `creature_template` SET `difficulty_entry_3`=51458 WHERE  `entry`=42321 LIMIT 1;
+UPDATE `creature_template` SET `exp`=3, `faction_A`=16, `faction_H`=16 WHERE  `entry` IN (51456, 51457, 51458);

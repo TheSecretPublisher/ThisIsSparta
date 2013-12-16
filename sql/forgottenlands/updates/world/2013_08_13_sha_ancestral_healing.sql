@@ -1,0 +1,3 @@
+DELETE FROM spell_proc_event WHERE entry in(16176, 16235);
+INSERT INTO `spell_proc_event` VALUES (16176, 0, 11, 131520, 524288, 8716368, 279552, 0, 0, 0, 0);
+INSERT INTO `spell_proc_event` VALUES (16235, 0, 11, 131520, 524288, 8716368, 279552, 0, 0, 0, 0);

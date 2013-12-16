@@ -1,0 +1,11 @@
+DELETE FROM gameobject_scripts WHERE id = 44811 AND delay = 0 AND command = 11 AND datalong = 15013 AND datalong2 = 15 AND dataint = 0 AND x = 0 AND y = 0 AND z = 0 AND o = 0;
+DELETE FROM gameobject_scripts WHERE id = 44809 AND delay = 0 AND command = 11 AND datalong = 15012 AND datalong2 = 15 AND dataint = 0 AND x = 0 AND y = 0 AND z = 0 AND o = 0;
+DELETE FROM gameobject_scripts WHERE id = 32378 AND delay = 0 AND command = 11 AND datalong = 32373 AND datalong2 = 15 AND dataint = 0 AND x = 0 AND y = 0 AND z = 0 AND o = 0;
+DELETE FROM gameobject_scripts WHERE id = 12148 AND delay = 0 AND command = 11 AND datalong = 30084 AND datalong2 = 15 AND dataint = 0 AND x = 0 AND y = 0 AND z = 0 AND o = 0;
+DELETE FROM gameobject_scripts WHERE id = 32442 AND delay = 0 AND command = 11 AND datalong = 32445 AND datalong2 = 15 AND dataint = 0 AND x = 0 AND y = 0 AND z = 0 AND o = 0;
+DELETE FROM gameobject_scripts WHERE id = 32443 AND delay = 0 AND command = 11 AND datalong = 20835 AND datalong2 = 15 AND dataint = 0 AND x = 0 AND y = 0 AND z = 0 AND o = 0;
+DELETE FROM gameobject_scripts WHERE id = 32444 AND delay = 0 AND command = 11 AND datalong = 32446 AND datalong2 = 120 AND dataint = 0 AND x = 0 AND y = 0 AND z = 0 AND o = 0;
+DELETE FROM gameobject_scripts WHERE id = 32480 AND delay = 0 AND command = 11 AND datalong = 33241 AND datalong2 = 120 AND dataint = 0 AND x = 0 AND y = 0 AND z = 0 AND o = 0;
+DELETE FROM gameobject_scripts WHERE id = 34006 AND delay = 0 AND command = 11 AND datalong = 33219 AND datalong2 = 15 AND dataint = 0 AND x = 0 AND y = 0 AND z = 0 AND o = 0;
+DELETE FROM gameobject_scripts WHERE id = 45625 AND delay = 0 AND command = 11 AND datalong = 45626 AND datalong2 = 15 AND dataint = 0 AND x = 0 AND y = 0 AND z = 0 AND o = 0;
+DELETE FROM gameobject_scripts WHERE id = 45428 AND delay = 0 AND command = 11 AND datalong = 45427 AND datalong2 = 15 AND dataint = 0 AND x = 0 AND y = 0 AND z = 0 AND o = 0;

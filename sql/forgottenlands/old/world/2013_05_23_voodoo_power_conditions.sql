@@ -1,0 +1,2 @@
+DELETE FROM `conditions` WHERE `SourceTypeOrReferenceId`=17 AND `SourceEntry`=78336;
+INSERT INTO `conditions` (`SourceTypeOrReferenceId`, `SourceEntry`, `ConditionTypeOrReference`, `ConditionTarget`, `ConditionValue1`, `ConditionValue2`, `Comment`) VALUES ('17', '78336', '31', '1', '3', '41360', 'Jin\'Zil\'s Voodoo Stick');

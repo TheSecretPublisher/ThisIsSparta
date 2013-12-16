@@ -1,0 +1,11 @@
+DELETE FROM spell_linked_spell WHERE spell_trigger in(6353, 89420, 5676, 6262, 48020, 30146, 691, 688, 697,712);
+INSERT INTO `spell_linked_spell` VALUES (6353, -74434, 0, 'Warlock: Soul Fire consumes buff');
+INSERT INTO `spell_linked_spell` VALUES (89420, -74434, 0, 'Warlock: Drain Life removes Soulburn');
+INSERT INTO `spell_linked_spell` VALUES (5676, -74434, 0, 'Warlock: Searing Pain consumes buff');
+INSERT INTO `spell_linked_spell` VALUES (6262, -74434, 0, 'Warlock: Healthstone consumes buff');
+INSERT INTO `spell_linked_spell` VALUES (48020, -74434, 0, 'Warlock: Demonic Circle: Teleport consumes buff');
+INSERT INTO `spell_linked_spell` VALUES (30146, -74434, 0, 'Warlock: Summon Felguard consumes buff');
+INSERT INTO `spell_linked_spell` VALUES (691, -74434, 0, 'Warlock: Summon Felhunter consumes buff');
+INSERT INTO `spell_linked_spell` VALUES (688, -74434, 0, 'Warlock: Summon Imp consumes buff');
+INSERT INTO `spell_linked_spell` VALUES (697, -74434, 0, 'Warlock: Summon Voidwalker consumes buff');
+INSERT INTO `spell_linked_spell` VALUES (712, -74434, 0, 'Warlock: Summon Succubus consumes buff');
